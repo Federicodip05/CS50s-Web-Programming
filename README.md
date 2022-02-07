@@ -1,2 +1,2 @@
 # CS50s-Web-Programming
- CS50's Web Programming with Python and JavaScript - HarvardX CS50W Course
+This repository contains the projects built during the edX course 'CS50's Web Programming with Python and JavaScript' by HarvardX CS50W.
